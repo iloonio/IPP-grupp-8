@@ -2,6 +2,8 @@
 int main (){
 
     //this is a comment. Red 
+    int x;
+    x = 3 + 5;
     return 0;
 }
 
