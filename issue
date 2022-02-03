@@ -1,3 +1,5 @@
-error occurred
-Stuff shit
-red
+int main (){
+
+    //this is a comment. Red 
+    return 0;
+}
