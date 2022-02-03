@@ -6,6 +6,8 @@ int main()
     //this is a comment. Red
     int x;
     x = 3 + 5;
+
+    std::cout << "ldkfhjaodjkf" << std::endl;
     return 0;
 }
 
