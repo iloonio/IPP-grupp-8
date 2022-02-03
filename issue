@@ -2,9 +2,9 @@
 int main()
 {
 
-    std::cout << "hello wordld" << std::endl
-        //this is a comment. Red
-        int x;
+    std::cout << "hello wordld" << std::endl;
+    //this is a comment. Red
+    int x;
     x = 3 + 5;
     return 0;
 }
