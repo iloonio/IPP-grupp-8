@@ -1,9 +1,12 @@
-
+# include <iostream>
 int main (){
 
+std::cout << "hello wordld" << std::endl
     //this is a comment. Red 
     return 0;
 }
+
+
 
 //=======
 //error occurred
