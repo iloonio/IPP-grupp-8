@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <!-- BLUETOOTH FRAGMENT -->
+    <string name="bluetooth_fragment_label">Bluetooth Fragment</string>
+
+
+    <string name="previous">Back</string>
+
+    <!-- NAME FOR THE APP -->
+    <string name="name_main">Yggdrasil</string>
+
+    <!-- BUTTON INFORMATION -->
+    <!-- BUTTON FOR SELECTION -->
+    <string name="button_selection_name">Selection</string>
+
+    <!-- BUTTON FOR STATISTICS -->
+    <string name="button_statistics_name">Statistics</string>
+
+
+    <!-- BUTTON FOR BLUETOOTH -->
+    <string name="button_bluetooth">Bluetooth</string>
+
+    <!-- BLUETOOTH BUTTONS -->
+    <string name="btn_bluetooth_on_ref">On</string>
+    <string name="btn_bluetooth_off_ref">Off</string>
+    <string name="btn_bluetooth_paired_ref">Show Paired Devices</string>
+
+    <!-- BUTTON DECLARATIONS FOR THE SELECTION SECTION -->
+    <string name="button_min">Off</string>
+    <string name="button_mid_min">Once per Month</string>
+    <string name="button_mid">Once per 2 Week</string>
+    <string name="button_mid_max">Once per Week</string>
+    <string name="button_max">Once per 3 Days</string>
+
+    <!-- SELECTION TEXTVIEW -->
+    <string name="text_information_selection">Set the intensity of watering your plant</string>
+
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
