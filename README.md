@@ -1,5 +1,5 @@
-# github-conflicting
-API sorta. 
+# IPP grupp 8
+API 
 
 startPage:
       Måste innehålla en knapp för att ta sig till potFragment.
@@ -10,8 +10,5 @@ potFragment
       Måste innehålla en knapp för att återvända till startPage.
 
 controlPage:
-      Måste innehålla en avdelning för statistik, som håller koll på varje gång krukan vattnas. bevattningen beror på int Fuktighet. 
       Statistiken förvaras i en fil som registrerar tidpunkten för bevattningen.
-      
-      
-       
+      Måste innehålla en knapp för att testa att logfilen för statistik funkar 
